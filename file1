@@ -1,0 +1,11 @@
+import sqlite3
+from Standard_Subroutines import *
+
+create_cursor_n_show_all()
+
+add_entry("Alfred","the Great","alf@thegreat.com")
+add_entry("Vince","Hall","Vince@BI.com")
+
+create_cursor_n_show_all()
+
+

@@ -5,6 +5,7 @@ create_cursor_n_show_all()
 
 add_entry("Alfred","the Great","alf@thegreat.com")
 add_entry("Vince","Hall","Vince@BI.com")
+add_entry("Harry","Moyse","Harry@BI.com")
 
 create_cursor_n_show_all()
 
